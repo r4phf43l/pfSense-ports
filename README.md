@@ -24,3 +24,8 @@ then run "squid-analyzer /var/log/e2guardian/access.log -r"
 
 ## To configure squidanalyzer
 /var/log/e2guardian/access.log
+
+## Zabbix Speedtest
+https://github.com/rbicelli/pfsense-zabbix-template
+
+curl --create-dirs -o /root/scripts/pfsense_zbx.php https://raw.githubusercontent.com/rbicelli/pfsense-zabbix-template/master/pfsense_zbx.php
