@@ -1,6 +1,6 @@
 # Changes
 
-## Update squidanalyzer 6.5 to 6.6
+## Updated squidanalyzer 6.5 to 6.6
 replaced /usr/local/lib/perl5/site_perl/SquidAnalyzer.pm
 
 with SquidAnalyzer.pm (6.6) from https://github.com/darold/squidanalyzer
