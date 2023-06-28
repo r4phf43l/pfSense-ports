@@ -8,7 +8,7 @@
 
 ### Ajustes e melhorias
 
-O projeto é feito sob demanda pessoal, os pacotes são disponibilizados sem previsão de ajutes/melhorias.
+O projeto é feito sob demanda pessoal, os pacotes são disponibilizados sem previsão de ajustes/melhorias.
 
 ## 💻 Pré-requisitos
 Os pacotes são voltados para o `pfSense 2.7 (beta) e pfSense + 23.05-RELEASE`.
