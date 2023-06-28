@@ -1,9 +1,9 @@
 # Changes
 
 ## Update squidanalyzer 6.5 to 6.6
-replace /usr/local/lib/perl5/site_perl/SquidAnalyzer.pm
+replaced /usr/local/lib/perl5/site_perl/SquidAnalyzer.pm
 with SquidAnalyzer.pm (6.6) from https://github.com/darold/squidanalyzer
-then run "squid-analyzer /var/log/e2guardian/access.log -r"
+To try: run "squid-analyzer /var/log/e2guardian/access.log -r"
 
 ## /usr/local/www/widgets/widgets/e2guardian.widget.php:56
 function e2guardian_show_dstats($count = 5) {
