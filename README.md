@@ -2,7 +2,9 @@
 
 ## Install dependencies
 pkg install libgd
+
 pkg add http://pkg.freebsd.org/FreeBSD:14:amd64/latest/All/sarg-2.4.0_2.pkg
+
 pkg add https://pkg.freebsd.org/FreeBSD:14:amd64/latest/All/squidanalyzer-6.5.pkg
 
 ## Install packages
@@ -12,6 +14,7 @@ pkg add [packet-name]
 Unzip original package
 
 xz -d pfSense-pkg-Sarg-0.6.15_2.txz
+
 tar xvf pfSense-pkg-Sarg-0.6.15_2.tar
 
 Edit the +MANIFEST
