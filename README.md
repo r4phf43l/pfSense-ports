@@ -34,8 +34,6 @@ pkg add <packet-name>
 4. Edite o arquivo +MANIFEST `nano +MANIFEST`
 5. `pkg create -M ./+MANIFEST`
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
 ## 🤝 Sobre o projeto
 
 Os pacotes são forks do trabalho de Marcello Coutinho (https://github.com/marcelloc).
