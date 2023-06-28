@@ -1,11 +1,10 @@
 # pfSense-ports
 
-![GitHub repo size]([https://img.shields.io/github/repo-size/r4phf43l/pfSense-ports](https://img.shields.io/github/repo-size/r4phf43l/pfSense-ports
-))
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/r4phf43l/pfSense-ports)
+![GitHub language count](https://img.shields.io/github/languages/count/r4phf43l/pfSense-ports)
+![GitHub forks](https://img.shields.io/github/forks/r4phf43l/pfSense-ports)
+![GitHub issues](https://img.shields.io/github/issues/r4phf43l/pfSense-ports)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/r4phf43l/pfSense-ports)
 
 ### Ajustes e melhorias
 
