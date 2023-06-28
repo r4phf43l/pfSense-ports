@@ -2,7 +2,9 @@
 
 ## Update squidanalyzer 6.5 to 6.6
 replaced /usr/local/lib/perl5/site_perl/SquidAnalyzer.pm
+
 with SquidAnalyzer.pm (6.6) from https://github.com/darold/squidanalyzer
+
 To try: run "squid-analyzer /var/log/e2guardian/access.log -r"
 
 ## /usr/local/www/widgets/widgets/e2guardian.widget.php:56
