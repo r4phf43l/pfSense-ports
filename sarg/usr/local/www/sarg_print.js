@@ -37,7 +37,7 @@ function exportToCSV(tableId, sep = ';', title = 'table') {
     if (link.download !== undefined) {
         const url = URL.createObjectURL(blob);
         link.setAttribute('href', url);
-        link.setAttribute('download', title . '.csv');
+        link.setAttribute('download', title + '.csv');
         link.style.visibility = 'hidden';
         document.body.appendChild(link);
         link.click();
